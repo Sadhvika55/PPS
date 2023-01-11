@@ -1,0 +1,14 @@
+#include<stdio.h>
+void main ()
+{
+int p,t,r;
+float si;
+printf("enter p value");
+scanf("%d,&p);
+printf("enter t value:");
+scanf("%d,&t);
+printf("enter r value:");
+scanf(%d,%r);
+si=(p*t*r)/100;
+printf(%t",si);
+}
